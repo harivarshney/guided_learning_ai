@@ -1,7 +1,3 @@
-"""
-Base Agent class - Parent for all agents
-"""
-
 from abc import ABC, abstractmethod
 from typing import Any, Dict, Optional
 import logging
