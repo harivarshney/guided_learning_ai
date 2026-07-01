@@ -24,15 +24,6 @@ class ResourceFinderAgent(Agent):
     - YouTube video search
     - Official documentation
     
-    Domain Coverage:
-    - Mathematics (Class 2 → Advanced Calculus)
-    - Science (Physics, Chemistry, Biology)
-    - Computer Science (DSA, Algorithms, System Design)
-    - Web Development (Frontend, Backend, Full-stack)
-    - Data Science & Machine Learning
-    - Cloud & DevOps
-    - Languages & Literature
-    - And basically ANY educational topic
     """
     
     def __init__(self):
