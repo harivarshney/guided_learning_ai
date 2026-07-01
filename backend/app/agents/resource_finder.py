@@ -1,20 +1,3 @@
-"""
-Resource Finder Agent - Educational Resource Discovery System (v2.0)
-Intelligent resource discovery with maintainable, never-breaking search URLs.
-
-Architecture:
-- Groq LLM for concept extraction
-- Smart search URL generation (never breaks)
-- Wikipedia for concepts (covers everything)
-- GitHub for implementations
-- Dev.to for tutorials
-- YouTube for videos
-- Official documentation
-
-Covers: Class 2 Maths → PhD-level AI, Physics, Chemistry, Languages, DSA, etc.
-Zero maintenance - all links are generated search URLs (never expire)
-"""
-
 import logging
 import os
 from typing import Any, Dict, List
