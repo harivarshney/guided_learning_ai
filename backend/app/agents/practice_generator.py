@@ -1,9 +1,3 @@
-"""
-Question Generator Agent
-Generates important study questions for downloadable question banks
-Creates 15-20 important questions based on the concept
-"""
-
 import json
 import logging
 from typing import Any, Dict, List
