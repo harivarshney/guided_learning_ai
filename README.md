@@ -1,3 +1,6 @@
+![Guided_learning_Ai](https://socialify.git.ci/harivarshney/guided_learning_ai/image?description=1&font=Rokkitt&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark)
+
+
 <div align="center">
 
 # 🎓 Guided Learning AI
