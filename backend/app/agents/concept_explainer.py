@@ -1,8 +1,3 @@
-"""
-Concept Explainer Agent - Deep Learning Content
-Provides comprehensive explanations with historical context, applications, and deep dives
-"""
-
 import logging
 import json
 from typing import Any, Dict
