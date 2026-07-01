@@ -1,9 +1,3 @@
-"""
-Guided Solution Agent
-Provides step-by-step guidance without direct answers
-Teaches HOW to solve, not WHAT the solution is
-"""
-
 import logging
 import json
 from typing import Any, Dict, List
