@@ -1,8 +1,3 @@
-"""
-Problem Understanding Agent
-Analyzes student's question to understand what they're stuck on
-"""
-
 import json
 import logging
 from typing import Any, Dict
