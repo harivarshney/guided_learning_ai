@@ -1,10 +1,3 @@
-"""
-Agent Orchestrator - Coordinates all agents
-Week 1: Problem Understanding Agent
-Week 2: + Resource Finder Agent
-Week 3: + Concept Explainer, Guided Solution, Practice Generator
-"""
-
 import asyncio
 import logging
 from typing import Any, Dict
