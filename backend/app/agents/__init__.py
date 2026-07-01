@@ -1,6 +1,3 @@
-"""
-AI Agents Package
-"""
 
 from .base_agent import Agent
 from .problem_understanding import ProblemUnderstandingAgent
