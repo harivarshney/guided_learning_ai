@@ -50,7 +50,13 @@ All five run per question, and every response is persisted — so a student's le
 Problem Analysis  →  Resources  →  Deep Explanation  →  Step-by-Step Guidance  →  Study Questions
 ```
 
-Every past session is saved and revisitable from the **History** page, and overall concept mastery is tracked on the **Progress** dashboard.
+Every past session is saved and revisitable from the **History** page.
+
+### 🎥 Watch it in action
+
+[![Guided Learning AI Demo](https://img.youtube.com/vi/s0xKDlfoBbo/maxresdefault.jpg)](https://youtu.be/s0xKDlfoBbo)
+
+*Click the thumbnail above to watch the full walkthrough*
 
 ---
 
